@@ -9,7 +9,7 @@ def input_limite(mensagem, limite):
         print(f'Oops! Digite no máximo {limite} caracteres.')
 
 
-palavra_secreta = 'ja'
+palavra_secreta = 'cristian'
 letras_acertadas = ''   
 tentativas = 0
 
